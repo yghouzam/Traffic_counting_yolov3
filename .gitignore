@@ -1,0 +1,12 @@
+*.h5
+testenv/
+videos/Road_traffic.mp4
+videos/
+videos/Road_traffic_2.mp4
+tensorflow_yolov3/
+.idea/
+.ipynb_checkpoints/
+kalman_tracker/
+notebooks/Traffic_counting_kalman_tracking.ipynb
+notebooks/Traffic_counting_tensorflow_yolov3.ipynb
+output.avi
