@@ -5,11 +5,11 @@
 ## part 1. Quick start
 1. Clone this file
 ```bashrc
-$ git clone https://github.com/yghouzam/traffic_counting_cv2_yolov3.git
+$ git clone https://github.com/yghouzam/Traffic_counting_yolov3.git
 ```
 2.  You are supposed  to install some dependencies before getting out hands with these codes.
 ```bashrc
-$ cd traffic_counting_cv2_yolov3
+$ cd Traffic_counting_yolov3
 $ pip install -r requirements.txt
 ```
 3. Download pretrained yolov3 COCO weights
