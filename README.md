@@ -1,5 +1,7 @@
 # [Traffic counting using yolov3]
 
+![Example of trafic counting](examples/example.gif.gif "Image Title")
+
 ## part 1. Quick start
 1. Clone this file
 ```bashrc
