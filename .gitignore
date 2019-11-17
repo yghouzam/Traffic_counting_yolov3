@@ -1,7 +1,6 @@
 *.h5
 testenv/
 videos/Road_traffic.mp4
-videos/
 videos/Road_traffic_2.mp4
 tensorflow_yolov3/
 .idea/

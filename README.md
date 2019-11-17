@@ -41,7 +41,7 @@ CZ2 = {'id':1, 'speed_limit' : 130, 'cz_distance' : 52 ,
 
 5. Run the demo script
 ```bashrc
-$ python main.py --in videos/Road_traffic_2.mp4 --out output.avi
+$ python main.py --in videos/Road_traffic_cut.mp4 --out output.avi
 ```
 
 ## part 2. References
