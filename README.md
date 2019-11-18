@@ -7,7 +7,8 @@
 ```bashrc
 $ git clone https://github.com/yghouzam/Traffic_counting_yolov3.git
 ```
-2.  You are supposed  to install some dependencies before getting out hands with these codes.
+2.  You are supposed  to install some dependencies before getting out hands with these codes.\
+YOU NEED Python 3.x and tensorflow 1.x or tensorflow-gpu 1.x 
 ```bashrc
 $ cd Traffic_counting_yolov3
 $ pip install -r requirements.txt
